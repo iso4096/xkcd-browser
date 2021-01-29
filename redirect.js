@@ -1,0 +1,1 @@
+setTimeout((function(){window.location.href="https://www.youtube.com/watch/oHg5SJYRHA0"}),20)
